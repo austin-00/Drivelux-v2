@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/Drivelux-v2/',
 })
